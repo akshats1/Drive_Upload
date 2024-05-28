@@ -1,0 +1,17 @@
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+fastapi
+uvicorn
+google-auth 
+google-auth-oauthlib
+google-auth-httplib2 
+google-api-python-client
+boto3
+-e .
